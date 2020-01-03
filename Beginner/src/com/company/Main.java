@@ -13,7 +13,7 @@ public class Main {
         int [] newArray = new int [5];
         String [] newStringArray = new String [5];
 
-        newArray[0]
+        newArray[0] 
 
 //        System.out.println(myStringArray[0]);
         //System.out.println(myArray.length);
